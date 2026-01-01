@@ -124,6 +124,7 @@ Password: user@123
 ## ii. API Endpoints and Example Responses
 
 Base URL: `http://localhost:5000/api`
+live URL: https://lamf-lms.netlify.app/
 
 ### Authentication Endpoints
 
